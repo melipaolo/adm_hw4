@@ -2,8 +2,8 @@
 ## Group 20
 In this repository there are the solutions for the Homework 4:   
 Andrea Polidori - 2143429  
-Paolo Meli - 1920140
-Ashish Upadhaya — 2047672
+Paolo Meli - 1920140  
+Ashish Upadhaya - 2047672  
 Nadir Nuralin - 2113428
 
 In the folder **HW4** you can find:
