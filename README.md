@@ -14,7 +14,7 @@ This is the repository Maintained by Group 20 for the Homework 4 of ADM. The pri
 - `Main.ipynb` is the main file that contains all the answers to all the questions;
 - In the **Command Line** folder there is the `.sh` file containg our solution and a screenshot with the result;
 
-**Note**: For the bonus part , please consider using (if executing) [this](https://github.com/melipaolo/adm_hw4/blob/main/df_bonus_part.csv)  file. This is because the orginal dataset is too big and few shells like the clustering one can demand more than an hour for execution. Also to to review the notebook use the html file or [this](https://nbviewer.org/github/melipaolo/adm_hw4/blob/main/Main.ipynb) link, as some plots/outputs could not be visualized in the proper way by opening the .ipynb file inside jupyter.
+**Note**: For the bonus part , please consider using (if executing) [this](https://github.com/melipaolo/adm_hw4/blob/main/df_bonus_part.csv)  file. This is because the orginal dataset is too big and few shells like the clustering one can demand more than an hour for execution. Also to to review the notebook use the html file or [this](https://github.com/melipaolo/adm_hw4/blob/main/Main.html) link, as some plots/outputs could not be visualized in the proper way by opening the .ipynb file inside jupyter.
 
 
 
