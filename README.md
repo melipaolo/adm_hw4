@@ -1,4 +1,4 @@
-# ADM - Homework 4
+# ADM Homework 4 - Recommendation systems and clustering everywhere
 ## Group 20
 In this repository there are the solutions for the Homework 4:   
 Andrea Polidori - 2143429  
