@@ -4,10 +4,10 @@ This is the repository Maintained by Group 20 for the Homework 4 of ADM. The pri
 
 
 ## Group Members:   
-Andrea Polidori -(polidori.2143429@studenti.uniroma1.it)
-Paolo Meli - (meli.1920140@studenti.uniroma1.it
-Ashish Upadhaya - (upadhaya.2047672@studenti.uniroma1.it) 
-Nadir Nuralin - 2113428 (nadir.nuralin@alumni.nu.edu.kz)
+- Andrea Polidori -(polidori.2143429@studenti.uniroma1.it)
+- Paolo Meli - (meli.1920140@studenti.uniroma1.it
+- Ashish Upadhaya - (upadhaya.2047672@studenti.uniroma1.it) 
+- Nadir Nuralin - 2113428 (nadir.nuralin@alumni.nu.edu.kz)
 
 ## Files in the Repository:
 - `Main.ipynb` is the main file that contains all the answers to all the questions;
