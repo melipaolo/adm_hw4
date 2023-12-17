@@ -10,6 +10,7 @@ This is the repository Maintained by Group 20 for the Homework 4 of ADM. The pri
 - Nadir Nuralin - 2113428 (nadir.nuralin@alumni.nu.edu.kz)
 
 ## Files in the Repository:
+- `Homework4.md` Contains the homework descriptions.
 - `Main.ipynb` is the main file that contains all the answers to all the questions;
 - In the **Command Line** folder there is the `.sh` file containg our solution and a screenshot with the result;
 
